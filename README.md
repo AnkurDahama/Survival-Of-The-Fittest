@@ -6,4 +6,4 @@ They will decrease as you move or according to Time.
 You will have to find sources of water, food and medicine to increase your Vitals
 
 
-<img src="https://media.giphy.com/media/xUA7bbZAYCqCBRIdkA/giphy.gif" />
+<img src="https://media.giphy.com/media/xUA7aOeQzzWAAbJ8l2/giphy.gif" />
